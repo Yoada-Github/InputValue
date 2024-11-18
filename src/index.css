@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  text-align: start;
+  padding: 20px;
+  font-size: 40px;
+  margin-left: 20px;
+  font-weight: bolder;
+  color: rgb(10, 179, 49);
+}
+#firut{
+  padding: 10px;
+  background-color: whitesmoke;
+  border: 2px solid ;
+  border-radius: 5px;
+  font-size: 20px;
+}
